@@ -1,4 +1,4 @@
 dummy-repo
 ==========
 
-for matt.
+Named after matt.
